@@ -1,0 +1,18 @@
+{
+    "name": "abhinav/mongo-course",
+    "description": "mongodb php course",
+    "autoload": {
+        "psr-4": {
+            "Abhinav\\MongoCourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abh1noob",
+            "email": "abhinavganeshank@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    }
+}
